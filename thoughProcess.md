@@ -18,3 +18,5 @@ Copying someone else's work obviously isn't something I make a habit of, however
 2. Spend day and night trying to get better at React and possibly end up with a sub-par product before the deadline. (however I would not have any time left for the laravel project)
 3. Follow a video with the certainty the project will be finished in a reasonable amount of time (while also taking the time to understand why it works, instead of mindlessly copying).
 
+## Ps.
+I ended up still not having enough time to create the laravel project. I helped one of my fellow students with starting up the react project even though I'm aware we're essentially competitors in this situation.
